@@ -1,4 +1,4 @@
-# vektorel_python98
+# vektorel_python98....
 Vektörel Bilişim - Python + YZ 98
 
 # Bu alanda proje hakkında açıklamalar olacak
